@@ -60,3 +60,51 @@ h6 {
 	font-size: inherit;
 	font-weight: inherit;
 }
+
+/*----------------------------BODY--------------------------------------------------------------------------------------*/
+.content__title {}
+
+/*----------------------------FIRST MEM---------------------------------------------------------------------------------*/
+
+.firstBlock {}
+
+.blockOne__memOne {}
+
+.activeBlock {}
+
+.firstBlock__title {}
+
+.firstBlock__img {}
+
+/*----------------------------SECOND MEM--------------------------------------------------------------------------------*/
+.secondBlock {}
+
+.blockTwo__memTwo {}
+
+.active {}
+
+.secondBlock__title {}
+
+.secondBlock__img {}
+
+/*----------------------------THIRD MEM---------------------------------------------------------------------------------*/
+.thirdBlock {}
+
+.blockThree__memThree {}
+
+.active {}
+
+.thirdBlock__title {}
+
+.thirdBlock__img {}
+
+/*----------------------------FOURTH MEM--------------------------------------------------------------------------------*/
+.fourthBlock {}
+
+.blockFour__memFour {}
+
+.active {}
+
+.fourthBlock__title {}
+
+.fourthBlock__img {}
