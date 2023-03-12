@@ -74,7 +74,7 @@ body {
 	box-sizing: border-box;
 	background-color: #F5F5F5;
 	overflow-y: scroll;
-	font-size: 2.375em;
+	font-size: 2em;
 	font-family: 'Turret';
 	line-height: 1.2;
 	color: black;
@@ -219,6 +219,10 @@ label input:checked~.firstBlock__img {
 	visibility: visible;
 	width: auto;
 	height: auto;
+}
+
+label input:checked~.firstBlock__title {
+	color: black;
 }
 
 /*----------------------------SECOND MEM--------------------------------------------------------------------------------*/
@@ -385,14 +389,14 @@ label input:checked~.fourthBlock__title {
 	color: black;
 }
 
-@media (min-width: 1921px) {
+@media (max-width: 1920px) {
 	.content {
 		padding-bottom: 10%;
 	}
 
 	p,
 	span {
-		font-size: 2.375em;
+		font-size: 1em;
 	}
 
 	p {
@@ -408,7 +412,7 @@ label input:checked~.fourthBlock__title {
 	}
 
 	.rightItem {
-		padding-right: 0.438em;
+		padding-right: 0.06em;
 	}
 }
 
@@ -419,7 +423,7 @@ label input:checked~.fourthBlock__title {
 
 	p,
 	span {
-		font-size: 2.45em;
+		font-size: 2.7em;
 	}
 
 	p {
@@ -462,7 +466,7 @@ label input:checked~.fourthBlock__title {
 		height: 0.01em;
 	}
 
-	.rightItem {
-		padding-right: 0.438em;
+	right .rightItem {
+		padding-left: 5em;
 	}
 }
