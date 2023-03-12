@@ -98,7 +98,7 @@ body {
 
 .rightItem {
 	opacity: 0;
-	background-image: url("/cssBayan/img/plus-icon.svg");
+	background-image: url("../img/plus-icon.svg");
 	width: 1em;
 	height: 1em;
 	background-size: 1em 1em;
@@ -175,7 +175,7 @@ label input:hover~.fourthBlock__title .rightItem {
 
 .firstBlock__rightItem {
 	opacity: 0;
-	background-image: url("/cssBayan/img/plus-icon.svg");
+	background-image: url("../img/plus-icon.svg");
 	width: 1em;
 	height: 1em;
 	background-size: 1em 1em;
