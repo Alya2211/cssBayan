@@ -408,7 +408,7 @@ label input:checked~.fourthBlock__title {
 	}
 
 	.rightItem {
-		padding-right: 7px;
+		padding-right: 0.438em;
 	}
 }
 
@@ -435,7 +435,7 @@ label input:checked~.fourthBlock__title {
 	}
 
 	.rightItem {
-		padding-right: 7px;
+		padding-right: 0.438em;
 	}
 }
 
@@ -463,6 +463,6 @@ label input:checked~.fourthBlock__title {
 	}
 
 	.rightItem {
-		padding-right: 7px;
+		padding-right: 0.438em;
 	}
 }
